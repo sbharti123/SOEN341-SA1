@@ -8,6 +8,7 @@ Website Project for SOEN 341 : Team SA1
 - Eric Kokmanian
 - Kresten Ordekian
 - Jessica Allaire
+- Sumit Bharti
 
 ### Dev environment:
 - Git/Github
